@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "Good Morning !!"
+echo "practising jenkins"
